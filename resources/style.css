@@ -1,0 +1,14 @@
+
+#nav{
+    background-color: black;
+    color: antiquewhite;
+}
+.row{
+    margin-bottom: 15px;
+}
+.row>div{
+    
+    background-color: grey;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
